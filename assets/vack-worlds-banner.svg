@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
-  <title id="title">Vack Worlds — World Management for Minigames</title>
-  <desc id="desc">A Vack Studio banner with three connected isometric Minecraft-inspired world platforms representing a template and independent arenas.</desc>
+  <title id="title">VWorld — World Management for Minigames</title>
+  <desc id="desc">A Vack Studio banner for VWorld with three connected isometric Minecraft-inspired world platforms representing a template and independent arenas.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#0B171B"/><stop offset=".55" stop-color="#14282D"/><stop offset="1" stop-color="#0A1418"/>
@@ -32,14 +32,14 @@
   <circle cx="1089" cy="214" r="155" fill="#7DD3C7" opacity=".09" filter="url(#glow)"/>
   <path d="M67 72h7v30h-7z" fill="#E6C88A"/>
   <text x="96" y="94" fill="#E6C88A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">VACK STUDIO  /  SERVER SYSTEMS</text>
-  <text x="68" y="204" fill="#F4F0E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="750" letter-spacing="-3">Vack Worlds</text>
+  <text x="68" y="204" fill="#F4F0E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="750" letter-spacing="-3">VWorld</text>
   <rect x="70" y="228" width="74" height="5" rx="2" fill="#E6C88A"/>
   <rect x="154" y="228" width="32" height="5" rx="2" fill="#7DD3C7"/>
   <text x="69" y="282" fill="#D3DDD9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26">One template. Infinite arenas.</text>
   <text x="69" y="322" fill="#ADB5BD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Create  /  Configure  /  Fork  /  Reset</text>
   <rect x="68" y="365" width="186" height="47" rx="12" fill="#1D3435" stroke="#7DD3C7" stroke-opacity=".45"/>
   <text x="90" y="395" fill="#7DD3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">MINECRAFT 26.2</text>
-  <text x="280" y="395" fill="#ADB5BD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">JAVA 25  ·  EN / العربية</text>
+  <text x="280" y="395" fill="#ADB5BD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">JAVA 25  ·  PAPER 26.2</text>
   <g stroke="#A8C5B8" stroke-opacity=".18" fill="none">
     <path d="M919 142 1083 71l163 71-163 72zM837 281l117-50 115 50-115 51zM1108 314l117-50 114 50-114 51z"/>
     <path d="M1083 214v50M954 331v38M1225 364v38" stroke-dasharray="4 7"/>
